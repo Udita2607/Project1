@@ -1,1 +1,1 @@
-# Project1
+# Responsive page using HTML & CSS
